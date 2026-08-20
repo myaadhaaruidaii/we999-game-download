@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!-- Meta tags for SEO & indexing -->
   <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://english-lab-puppies.com/lab-puppies-memphis-tn" />
+  <meta name="google-site-verification" content="ex38GtRcQWsVLNVtID5ZlPb_d-T-w056nB54GGkVVPU" />
+  <link rel="canonical" href="https://we999-game-download-0589bcfc0c4d.herokuapp.com/" />
   <title>WE999 Game Download - Bonuses, Referral & Lucky Draws</title>
   <meta name="description" content="Get the WE999 game download now! Claim welcome bonuses, earn referral rewards, and join lucky draws. Start winning real cash today in Pakistan." />
   <!-- Primary keyword in slug: lab-puppies-memphis-tn -->
